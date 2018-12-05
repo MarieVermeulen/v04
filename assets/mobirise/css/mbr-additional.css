@@ -1760,6 +1760,18 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #ffffff !important;
 }
+.cid-rbmwb8U7Sp {
+  background: #ffffff;
+}
+.cid-rbmwb8U7Sp .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rbmwb8U7Sp .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r4L5hf1EhU {
   background-image: url("../../../assets/images/scan-1-979x647.jpg");
 }
